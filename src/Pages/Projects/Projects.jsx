@@ -115,7 +115,7 @@ const Projects = () => {
               <div className="text-center sm:text-left mb-14 before:block before:w-24 before:h-3 before:mb-5 before:rounded-md before:mx-auto sm:before:mx-0 before:dark:bg-violet-400">
                 <h3 className="text-3xl font-semibold">Toyztore</h3>
                 <span className="text-sm font-bold tracki uppercase dark:text-gray-400">
-                Toyztore landing page
+                Toys for kids landing page
                 </span>
                 <div>
                   <time className="text-xs tracki uppercase dark:text-gray-400">
@@ -207,7 +207,7 @@ const Projects = () => {
               <div className="text-center sm:text-left mb-14 before:block before:w-24 before:h-3 before:mb-5 before:rounded-md before:mx-auto sm:before:mx-0 before:dark:bg-violet-400">
                 <h3 className="text-3xl font-semibold">FitLabLC</h3>
                 <span className="text-sm font-bold tracki uppercase dark:text-gray-400">
-                FitLabLC landing page
+                Fitness landing page 
                 </span>
                 <div>
                   <time className="text-xs tracki uppercase dark:text-gray-400">
